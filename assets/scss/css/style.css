@@ -1,0 +1,34 @@
+#buttons button {
+  margin: 15px;
+  position: relative;
+  top: 17px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  width: 127.8px;
+}
+
+#buttons .images img {
+  width: 168px;
+  height: 108px;
+  margin-top: 40px;
+}
+
+#buttons .title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#buttons p {
+  width: 360px;
+}
+
+#buttons .row {
+  width: 40%;
+  position: absolute;
+  left: 147.5px;
+  top: 68px;
+  border: solid 1px #229dd6;
+  border-top: solid 3px #229dd6;
+}
+/*# sourceMappingURL=style.css.map */
